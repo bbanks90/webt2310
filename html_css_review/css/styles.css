@@ -9,8 +9,8 @@ body {
 
 img {
     display: block;
-    width: 100%;
-    margin: 0 auto;
+    width: 75%;
+    margin: 10px auto;
 }
 
 nav,
@@ -58,6 +58,7 @@ header {
 section{
     margin: 10px 0;
     padding: 10px;
+    text-align: center;
 }
 
 #lower_area {
@@ -67,11 +68,11 @@ column {
     margin: 10px 0;
     padding: 10px;
     border-bottom: 4px solid #0D0D0D;
-    text-align: center;
+    text-align:right
 }
 
 .column img {
-    width: 75%;
+    width: 95%;
     margin: 10px auto;
 }
 
