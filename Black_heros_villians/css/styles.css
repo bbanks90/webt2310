@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    .comic-neue-bold {
+        font-family: "Comic Neue", cursive;
+        font-weight: 700;
+        font-style: normal;
+      }
+}
+
+/* Classes */
+.navbar {
+    background-color: black;
+}
+
+/* IDs */
+
+
+
+#header_img {
+    background-image: url(../images/black_super_heros.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#header {
+    width: 50%;
+}
