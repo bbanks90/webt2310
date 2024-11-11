@@ -1,12 +1,13 @@
 body{
     background-color: black;
-    color: white;
+    color: white;}
+
     .comic-neue-bold {
         font-family: "Comic Neue", cursive;
         font-weight: 700;
         font-style: normal;
       }
-}
+
 
 /* Classes */
 .navbar {
@@ -15,14 +16,20 @@ body{
 
 /* IDs */
 
-
-
-#header_img {
-    background-image: url(../images/black_super_heros.jpeg);
-    background-size: cover;
-    background-position: center;
+.header_img{
+    max-width: 100%;
+    max-height: 100%;
 }
+
+
 
 #header {
     width: 50%;
+}
+header{
+    color: red;
+
+}
+.background{
+    color: black;
 }
